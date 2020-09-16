@@ -1,0 +1,26 @@
+.spendingBox {
+  border: 1px solid lightgray;
+  border-radius: 3px;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  align-items: center;
+  margin: 5px;
+  padding: 5px 10px;
+}
+
+.divRow {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+}
+
+.spendingText {
+  display: flex;
+  flex-direction: column;
+  padding-left: 20px;
+}
+
+.divValues span {
+  padding-right: 15px;
+}
