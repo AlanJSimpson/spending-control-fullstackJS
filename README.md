@@ -8,7 +8,9 @@ The application is a control of expenses where it is possible to register, edit 
 
 ### back-end
 
-### `yarn start` - to run the backend application
+### `yarn start` 
+to run the backend application. <br />
+Open [http://localhost:3001](http://localhost:3001) to view it in the browser.
 ### `yarn server` - to run the backend application with the nodemon for development.
 
 ## Front-end
