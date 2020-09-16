@@ -6,7 +6,7 @@ The application is a control of expenses where it is possible to register, edit 
 
 ## Get Start
 
-### back-end
+## back-end
 
 ### `yarn start` 
 to run the backend application. <br />
