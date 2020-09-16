@@ -54,7 +54,6 @@ export default function App() {
 
   return (
     <div className="container">
-      <h1 className="center">Desafio Final do Bootcamp Full Stack</h1>
       <CashControl onDateChange={handleDateChange} curDate={date} />
       <ShowsSpending views={viewsData} filterSpending={handleFilter} />
     </div>

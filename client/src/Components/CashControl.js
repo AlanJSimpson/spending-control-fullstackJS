@@ -54,13 +54,14 @@ export default function CashControl({ onDateChange, curDate }) {
 
   return (
     <div>
-      <h2 className="center">Controle financeiro pessoal</h2>
+      <h1 className="center">Controle financeiro pessoal</h1>
       <div
         className="center"
         style={{
           display: "flex",
           alignItems: "center",
           justifyContent: "center",
+          marginTop: "70px",
         }}
       >
         <button
